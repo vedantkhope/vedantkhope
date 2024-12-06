@@ -1,4 +1,4 @@
-# Aspiring Data Scientist 🚀📊  
+# Aspiring Data Analyst 🚀📊  
 
 Hello! I'm Vedant, an enthusiastic **Data Science Student** passionate about uncovering insights from data and solving real-world problems using technology. I am actively seeking opportunities to apply my skills and grow as a **Data Analyst** or **Data Scientist**.
 
